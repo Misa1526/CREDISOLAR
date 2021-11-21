@@ -52,7 +52,7 @@
         /* posiciona lo que esta al aldo, abajo. */
         flex-direction: column;
         /* color del elemento */
-        color: rgb(75, 71, 71);
+        color: rgb(10, 10, 10);
     }
     
     .menu-navegacion {
@@ -77,10 +77,10 @@
         display: inline-block;
         padding: 10px 40px;
         margin-left: 20px;
-        border: 1px solid rgb(46, 44, 44);
+        border: 1px solid rgb(10, 10, 10);
         border-radius: 30px;
         text-align: center;
-        color: rgb(61, 59, 59);
+        color: rgb(10, 10, 10);
         text-decoration: none;
     }
     
